@@ -24,19 +24,19 @@ Authored and maintained the North American standard tool for OOT Impact Analysis
 Same as the above, but with additional cross-reference tooling to semi-automate the OOT analysis process for the highest volume domain in metrology. 
 
 ## Personal/hugin.py
-A script to build a programmatic newspaper from RSS and send it to your kindle.
+A script to build a programmatic newspaper from RSS and send it to your kindle. [Look here for further details](https://github.com/futurehaskins/hugin.py).
 
 ## Personal/oldnorsetoYFrunesconverter.py
-This is a tool for converting ancient texts (the eddas, the sagas, et al) into their period-appropriate runic script (younger futhark) by cross-referencing available inscription databases.
+This is a tool for converting ancient texts (the eddas, the sagas, et al) into their period-appropriate runic script (younger futhark) by cross-referencing available inscription databases. [Look here for further details](https://github.com/futurehaskins/Runa).
 
 ## Personal/English-ASFtransliteration.py
-Simple letter swapper using json.
+Simple letter swapper using json. [Look here for further details](https://github.com/futurehaskins/Runa).
 
 ## Personal/updaterunicspelling.py
-This tool helps me update the runic spelling of every single text in the repository-directory, as I discover better spelling for specific Old Norse words. I'm working with a dead language, and routinely check academic sources for newer, better spellings. I don't want to update each file by hand, so instead I update them all at once.
+This tool helps me update the runic spelling of every single text in the repository-directory, as I discover better spelling for specific Old Norse words. I'm working with a dead language, and routinely check academic sources for newer, better spellings. I don't want to update each file by hand, so instead I update them all at once. [Look here for further details](https://github.com/futurehaskins/Runa).
 
 ## Personal/gsw.sh
-A polling git helper/HUD for bash. I use it regularly at work and at home, to manage my repos as I build them out.
+A polling git helper/HUD for bash. I use it regularly at work and at home, to manage my repos as I build them out. [Look here for further details](https://github.com/futurehaskins/gsw).
 
 ## Personal/calendarstaff.js
-This is a JS script I use on my personal start/home page that displays the date in a 'Kalendar Stavar' format. If you read the Old Farmer's Almanac, it's directly correlated with the ecclesiatical days listed therein, but one line and does the math for me.
+This is a JS script I use on my personal start/home page that displays the date in a 'Kalendar Stavar' format. If you read the Old Farmer's Almanac, it's directly correlated with the ecclesiatical days listed therein, but one line and does the math for me. [Look here for further details](https://github.com/futurehaskins/futurehaskins.github.io) or [see the reults themselves here](https://futurehaskins.github.io/)
